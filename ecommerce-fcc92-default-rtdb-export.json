@@ -1,0 +1,101 @@
+{
+  "Admins" : {
+    "0" : {
+      "name" : "Admin",
+      "password" : "admin",
+      "phone" : 0
+    },
+    "0629694025" : {
+      "name" : "Damnjan",
+      "password" : "admin",
+      "phone" : "0629694025"
+    }
+  },
+  "Products" : {
+    "Aug 19, 202113:42:50 PM" : {
+      "category" : "Laptops",
+      "date" : "Aug 19, 2021",
+      "description" : "Specs:\n32 GB RAM\nProcessor Ryzen 7 5800X\nGraphic RTX 3080",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-fcc92.appspot.com/o/Product%20Images%2Fmsf%3A33Aug%2019%2C%20202113%3A42%3A50%20PM.jpg?alt=media&token=279fbe1a-5705-4fc9-9fcc-d07ff6fe82fb",
+      "pid" : "Aug 19, 202113:42:50 PM",
+      "pname" : "Razer Blade 15",
+      "price" : "1500",
+      "productState" : "Approved",
+      "sellerAddress" : "Belgrade, Shop#33, Serbia",
+      "sellerEmail" : "jankojankovic@gmail.com",
+      "sellerName" : "Janko Jankovic",
+      "sellerPhone" : "123456789",
+      "sid" : "ejJtHvoA8bYawozyYHuQZiSCSJs1",
+      "time" : "13:42:50 PM"
+    },
+    "Aug 19, 202114:55:51 PM" : {
+      "category" : "tShirts",
+      "date" : "Aug 19, 2021",
+      "description" : "Pack of 5 tShirts",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-fcc92.appspot.com/o/Product%20Images%2Fmsf%3A31Aug%2019%2C%20202114%3A55%3A51%20PM.jpg?alt=media&token=7e4ff56e-80e8-4e69-8728-3bc219c79307",
+      "pid" : "Aug 19, 202114:55:51 PM",
+      "pname" : "tShirt",
+      "price" : "20",
+      "productState" : "Approved",
+      "sellerAddress" : "Shop#21, ABC Market, Paris, France",
+      "sellerEmail" : "jia@gmail.com",
+      "sellerName" : "Jia Parker",
+      "sellerPhone" : "09001234567",
+      "sid" : "rRqhSM5R3baZiWE1Y8ejLyW5hlI2",
+      "time" : "14:55:51 PM"
+    },
+    "Aug 19, 202115:57:06 PM" : {
+      "category" : "Mobile Phones",
+      "date" : "Aug 19, 2021",
+      "description" : "Very good",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ecommerce-fcc92.appspot.com/o/Product%20Images%2Fmsf%3A34Aug%2019%2C%20202115%3A57%3A06%20PM.jpg?alt=media&token=e49cb655-cafa-41ac-a488-26f180030b40",
+      "pid" : "Aug 19, 202115:57:06 PM",
+      "pname" : "Samsung",
+      "price" : "500",
+      "productState" : "Not Approved",
+      "sellerAddress" : "Shop#21, ABC Market, Paris, France",
+      "sellerEmail" : "jia@gmail.com",
+      "sellerName" : "Jia Parker",
+      "sellerPhone" : "09001234567",
+      "sid" : "rRqhSM5R3baZiWE1Y8ejLyW5hlI2",
+      "time" : "15:57:06 PM"
+    }
+  },
+  "Sellers" : {
+    "ejJtHvoA8bYawozyYHuQZiSCSJs1" : {
+      "address" : "Belgrade, Shop#33, Serbia",
+      "email" : "jankojankovic@gmail.com",
+      "name" : "Janko Jankovic",
+      "phone" : "123456789",
+      "sid" : "ejJtHvoA8bYawozyYHuQZiSCSJs1"
+    },
+    "rRqhSM5R3baZiWE1Y8ejLyW5hlI2" : {
+      "address" : "Shop#21, ABC Market, Paris, France",
+      "email" : "jia@gmail.com",
+      "name" : "Jia Parker",
+      "phone" : "09001234567",
+      "sid" : "rRqhSM5R3baZiWE1Y8ejLyW5hlI2"
+    }
+  },
+  "Users" : {
+    "0000" : {
+      "name" : "user",
+      "password" : "0000",
+      "phone" : "0000"
+    },
+    "0123" : {
+      "name" : "ImeNeko",
+      "password" : "0123",
+      "phone" : "0123"
+    },
+    "0629694025" : {
+      "Security Questions" : {
+        "answer1" : "belgrade",
+        "answer2" : "iron man"
+      },
+      "name" : "Damnjan",
+      "password" : "1",
+      "phone" : "0629694025"
+    }
+  }
+}
